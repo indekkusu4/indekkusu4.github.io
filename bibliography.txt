@@ -32,11 +32,42 @@
   year={1994},
   publisher={Springer Science \& Business Media}
 }
+@article{tate1974arithmetic,
+  title={The arithmetic of elliptic curves},
+  author={Tate, John T},
+  journal={Inventiones mathematicae},
+  volume={23},
+  number={3},
+  pages={179--206},
+  year={1974},
+  publisher={Springer}
+}
+@book{silverman1992rational,
+  title={Rational points on elliptic curves},
+  author={Silverman, Joseph H and Tate, John Torrence},
+  volume={9},
+  year={1992},
+  publisher={Springer}
+}
 @book{hindry2013diophantine,
   title={Diophantine geometry: an introduction},
   author={Hindry, Marc and Silverman, Joseph H},
   volume={201},
   year={2013},
+  publisher={Springer Science \& Business Media}
+}
+@book{serre1977linear,
+  title={Linear representations of finite groups},
+  author={Serre, Jean-Pierre and others},
+  volume={42},
+  year={1977},
+  publisher={Springer}
+}
+@book{serre2012course,
+  title={A course in arithmetic},
+  author={Serre, Jean-Pierre},
+  volume={7},
+  year={2012},
   publisher={Springer Science \& Business Media}
 }
 @book{weibel2013k,
