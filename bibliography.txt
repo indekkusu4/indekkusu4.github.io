@@ -1,0 +1,62 @@
+@article{bhatt2022prisms,
+  title={Prisms and prismatic cohomology},
+  author={Bhatt, Bhargav and Scholze, Peter},
+  journal={Annals of Mathematics},
+  volume={196},
+  number={3},
+  pages={1135--1275},
+  year={2022},
+  publisher={Department of Mathematics, Princeton University Princeton, New Jersey, USA}
+}
+@article{scholze2022liquid,
+  title={Liquid tensor experiment},
+  author={Scholze, Peter},
+  journal={Experimental Mathematics},
+  volume={31},
+  number={2},
+  pages={349--354},
+  year={2022},
+  publisher={Taylor \& Francis}
+}
+@book{silverman2009arithmetic,
+  title={The arithmetic of elliptic curves},
+  author={Silverman, Joseph H},
+  volume={106},
+  year={2009},
+  publisher={Springer}
+}
+@book{silverman1994advanced,
+  title={Advanced topics in the arithmetic of elliptic curves},
+  author={Silverman, Joseph H},
+  volume={151},
+  year={1994},
+  publisher={Springer Science \& Business Media}
+}
+@book{hindry2013diophantine,
+  title={Diophantine geometry: an introduction},
+  author={Hindry, Marc and Silverman, Joseph H},
+  volume={201},
+  year={2013},
+  publisher={Springer Science \& Business Media}
+}
+@book{weibel2013k,
+  title={The $ K $-book: An Introduction to Algebraic $ K $-theory},
+  author={Weibel, Charles A},
+  volume={145},
+  year={2013},
+  publisher={American Mathematical Soc.}
+}
+@book{kiehl2013weil,
+  title={Weil conjectures, perverse sheaves and l-adic Fourier transform},
+  author={Kiehl, Reinhardt and Weissauer, Rainer},
+  volume={42},
+  year={2013},
+  publisher={Springer Science \& Business Media}
+}
+@book{darmon2009arithmetic,
+  title={Arithmetic Geometry: Clay Mathematics Institute Summer School, Arithmetic Geometry, July 17-August 11, 2006, Mathematisches Institut, Georg-August-Universit{\"a}t, G{\"o}ttingen, Germany},
+  author={Darmon, Henri},
+  volume={8},
+  year={2009},
+  publisher={American Mathematical Soc.}
+}

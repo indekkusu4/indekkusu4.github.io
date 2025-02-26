@@ -1,8 +1,7 @@
-
 ---
-title: The $K$-book, an introduction to Algebraic $K$-theory
-author: Charles A. Weibel
-!date:  April 4, 2013
+title: The $ K $-book: An Introduction to Algebraic $ K $-theory
+author: Charles A Weibel
+!date: 2013
 ---
 
 ```
