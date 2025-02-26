@@ -1,6 +1,6 @@
 ---
 title: Weil conjectures, perverse sheaves and l-adic Fourier transform
-author: Reinhardt Kiehl,Rainer Weissauer
+author: Reinhardt Kiehl, Rainer Weissauer
 !date: 2013
 ---
 

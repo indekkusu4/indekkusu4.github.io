@@ -1,6 +1,6 @@
 ---
 title: Prisms and prismatic cohomology
-author: Bhargav Bhatt,Peter Scholze
+author: Bhargav Bhatt, Peter Scholze
 !date: 2022
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rational points on elliptic curves
-author: Joseph H Silverman,John Torrence Tate
+author: Joseph H Silverman, John Torrence Tate
 !date: 1992
 ---
 

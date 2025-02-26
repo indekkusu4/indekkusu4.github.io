@@ -39,7 +39,7 @@ const dropOptionLastComma = s => s[s.length - 1] == ',' ? s.substring(0, s.lengt
 const dropBraces = s => s.substring(1, s.length - 1);
 
 const adjustTitleText = s => s.replace(/{\\"([a-z])}/g, "$1\u0308");
-const adjustAuthorText = s => s.split(' and ').map(u => u.split(', ').reverse().join(' '));
+const adjustAuthorText = s => s.split(' and ').map(u => u.split(', ').reverse().join(' ')).join(', ');
 
 const generateMetadataBlock = (metadataProps) => {
   let metadataBlock = '';

@@ -1,6 +1,6 @@
 ---
 title: Linear representations of finite groups
-author: Jean-Pierre Serre,others
+author: Jean-Pierre Serre, others
 !date: 1977
 ---
 

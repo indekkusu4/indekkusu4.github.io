@@ -1,6 +1,6 @@
 ---
 title: Diophantine geometry: an introduction
-author: Marc Hindry,Joseph H Silverman
+author: Marc Hindry, Joseph H Silverman
 !date: 2013
 ---
 
